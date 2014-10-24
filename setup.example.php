@@ -21,7 +21,7 @@ define('GOOGLE_ANALYTICS_WEB_ID',
 	'a1111111w2222222p3333333');
 
 // Make an incoming webhook here: 
-// https://boingboing.slack.com/services/new/incoming-webhook
+// https://YOURSLACK.slack.com/services/new/incoming-webhook
 define('SLACK_WEBHOOK_URL', 
 	'https://EXAMPLE.slack.com/services/hooks/incoming-webhook?token=EXAMPLE');
 define('YOUR_DOMAIN', 
